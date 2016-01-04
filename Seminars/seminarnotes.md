@@ -11,6 +11,7 @@ Answers:
 
 
   Articles
+  
   The Art and Science of Software Release Planning
   This article is about the art and science of a release planning. The art of release planning approach relays on communication and     human intuition, whereas the science of release planning approach applies algorithms to specify the problem and to obtain better      solutions for the problem. In this article, the combination of both art and science is proposed to define optimal release planning.
   Release planning is an important event for a developed product. An assumption is made to characterize a good release plan based on    some criteria.
