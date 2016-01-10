@@ -48,6 +48,7 @@ The evaluation of the entire QUPER model is carried out in a qualitative researc
 
 Introducing Support for Release Planning of Quality Requirements
 – An Industrial Evaluation of the QUPER Model
+
 	In this article, the authors introduced a conceptual model that integrates cost and value used in prioritization for functional requirements. The industrial evaluation of this model is presented in this paper. The industry in which the model is implemented is Sony Ericsson, which is a large-scale industry. The main purpose is how the QUPER model is implemented in the company. The main motive of this paper is to how QUPER model is used in the company. The development of QUPER model has been done in three main steps.
 o	Step 1: Problem definition
 o	Step 2: Model definition
@@ -73,6 +74,7 @@ o	What value the QUPER model may bring to release planning.
 A table is provided in the article to show the results of the study. The QUPER model is suitable for high-level decision making for quality requirements for release planning activities. Breakpoints, competitor analysis and identification of own provides a need of requirements of a particular release.
 
 A Market-driven Requirements Engineering Process- Results from an Industrial Process Improvement Programme
+
 	Requirements engineering process is different in various products. In this article the authors explained a requirements engineering process called REPEAT (Requirements Engineering ProcEss At Telelogic). It is a Swedish CASE-tool vendor Telelogic AB; which is a fast growing company. REPEAT is a process that manages requirements in an entire release cycle. REPEAT is used for elicitation, selecting and managing requirement and release planning. The activities which can be managed are
 o	Requirements Management Group(RQMG)
 o	Issuer
@@ -90,20 +92,24 @@ iii.	Change Management, Construction, Verification and Conclusion: The REPEAT pr
 
 
 Seminar 1
-  1.	Read up on GAP / CVA / IVA Analysis!
-  2.	What tools are available for Continuous Integration?
-  3.	What is technical product management?
-  4.	What is roadmapping? How can you do it large scale?
-  
-1.	Continuous integration is an essential part of agile software development setup. During the software development some errors creep in and disturbs the software. Some tools are available for continuous integration to find the errors in the initial stage. They are
-•	Jenkins
-•	Buildbot
-•	Travis CI
-•	Strider
-•	Go
-•	Integrity
+
+1.Read up on GAP / CVA / IVA Analysis!
+2.What tools are available for Continuous Integration?
+3.What is technical product management?
+4.What is roadmapping? How can you do it large scale?
+Answers:
+
+1.Continuous integration is an essential part of agile software development setup. During the software development some errors creep in and disturbs the software. Some tools are available for continuous integration to find the errors in the initial stage. They are
+•Jenkins
+•Buildbot
+•Travis CI
+•Strider
+•Go
+•Integrity
 These tools are open source tools.
+
 2.	Technical product management is a typical task which is handled by a technical product manager. The term technical product manager depicts a product manager with a technical background. Product manager has several important tasks, such as management of requirements, release planning and launching of products.
+
 3.	Roadmapping is a process in which the list of release plan and the time and date of the release plan. In large scale there are many aspects to be considered before creating the roadmap.
 i.	Business strategies and Processes
 ii.	Determine and meet requirements
@@ -114,20 +120,23 @@ vi.	Technology analysis
 	
   
 Seminar 2
-  1.	Read up on the Boston Matrix
-  2.	How do you connect your requirements to your architecture?
-  3.	Can you connect all requirements directly? What do you do if you cannot?
+1.	Read up on the Boston Matrix
+2.	How do you connect your requirements to your architecture?
+3.	Can you connect all requirements directly? What do you do if you cannot?
   	
   
 Seminar 4
-  1.	What tools are available for requirements management?
-  2.	Any particular tools for agile requirements management?
-  3.	Briefly, read and summarise:
+1.	What tools are available for requirements management?
+2.	Any particular tools for agile requirements management?
+3.	Briefly, read and summarise:
     • http://studentarbeten.chalmers.se/publication/220573-assessing-challenges-of-continuous-integration-in-the-context-of-software-r       equirements-breakdown-a-c
 
 Seminar 3
+
 Articles
+
 Obsolete Software Requirements:
+
 There are a large number of requirements inflow in the context of Market-Driven Requirements Engineering (MDRE). It is very crucial for the companies to act for these rapidly changing requirements and find effective ways to handle them to stay in the competition. There is not much research that has been carried out in this field of Obsolete Software Requirements. In this article to find out some data regarding the concept of Obsolete Software Requirements (OSR) has carried out a survey with 219 participants across the globe.
 
 The author has carried out an extensive survey and used many graphical representations to visualize the results. This process of rapidly changing requirements and handling them before they outdated is a very challenging task. There is a need for the readers to have knowledge in requirements management to understand this phenomenon. According to the authors, the definition of an OSR is
