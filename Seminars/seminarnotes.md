@@ -125,3 +125,23 @@ Seminar 4
   3.	Briefly, read and summarise:
     • http://studentarbeten.chalmers.se/publication/220573-assessing-challenges-of-continuous-integration-in-the-context-of-software-r       equirements-breakdown-a-c
 
+Seminar 3
+Articles
+Obsolete Software Requirements:
+There are a large number of requirements inflow in the context of Market-Driven Requirements Engineering (MDRE). It is very crucial for the companies to act for these rapidly changing requirements and find effective ways to handle them to stay in the competition. There is not much research that has been carried out in this field of Obsolete Software Requirements. In this article to find out some data regarding the concept of Obsolete Software Requirements (OSR) has carried out a survey with 219 participants across the globe.
+
+The author has carried out an extensive survey and used many graphical representations to visualize the results. This process of rapidly changing requirements and handling them before they outdated is a very challenging task. There is a need for the readers to have knowledge in requirements management to understand this phenomenon. According to the authors, the definition of an OSR is
+"An obsolete requirement is a software requirement that is no longer required for the current release and which has no value or business goals for the potential customers or users of a software artifact for various reasons." There are nine different research questions stated and addressed in this article. They range from the most basic level of finding out the correct definition of an OSR to knowing different practices that exist in handling the requirements. The survey questions posted are: 
+1. Defining obsolete requirements
+2. The potential impact of OSRs
+3. Requirements types and OSRs
+4. Methods to identify OSRs
+5. Handling of identified obsolete software requirements
+6. Context factors and obsolete software requirements
+7. Where in the requirements lifecycle should OSRs be handled 
+8. Existing processes and practices regarding managing OSRs
+
+Next there are questions on demographics to know about people of which part of world answering the survey. The correct definition is as already stated above. About 45% of the people say that OSR's are somehow serious whereas 39% actually think they are serious. 
+
+Then the author aimed at finding out which type of requirements get obsolete. He eventually found out that the misunderstood requirements are usually the ones which become obsolete. More than 50% of the respondents say that they manually find out the OSR's in their project and this is the primary method. For finding out the means to handle these requirements no reliable method has been suggested or is being used. 
+Then the author has found to different practices to handle these requirements and there are many options suggested by the respondents. Some of them include reviewing the requirements, using tools and marking OSR's, traceability so on and so forth.
