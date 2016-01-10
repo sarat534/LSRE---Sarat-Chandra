@@ -7,7 +7,7 @@ Seminar 0
 Answers:
   1.	Gathering requirements for developing a software system from large scale organizations is called as large scale requirements          engineering.
   2.  The main challenges observed in large scale requirements engineering are gathering the requirements, prioritizing the                 requirements, analyzing the requirements, satisfying the customer value. The requirements are gathered base on the need of            stakeholders.The requirements are to be prioritized so that which requirements can be done first. The prioritization of the           requirements is done based on the importance of the requirement. 
-  
+  3.  The order of magnitude would be 1000 or more than 1000 requirements in large-scale requirements. In a very large-scale                requirements, it would be more than 10,000 and may also exceed. 
 
 
   Articles
@@ -24,7 +24,69 @@ Answers:
   
   A Case Study Evaluationof the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
   
-  In this article a model it is described that a model is developed to support high-level decision-making during release 		  planning of quality requirement. The model is QUPER model. The challenges which are faced by the organizations during the           development of a software to the market are also discussed.
+  	In this article, the authors illustrated about the guidelines in supporting a QUPER model and integrated the cost dependencies in the model. The model is evaluated by applying the techniques in an organization. The QUPER model and cost dependencies have a high impact on quality of the requirements and the leads to change in the estimated budget. The budget may increase and also effects the release planning. The guidelines which help in integrating cost dependency in QUPER model are
+I.	Identify candidate QR: While identifying the quality requirements the relevant features, competitor and hardware capability should be considered. If many quality requirements are identified the QUPER’s model is useful. But in some quality requirements, QUPER is not consistent.
+II.	Define scale and unit: A scale and measurements should be defined to explain the level of quality of the requirements.
+III.	Identify reference levels: identifying reference levels to the quality requirements will be useful basing on the actual products. Estimates can be given in three forms,
+o	Point estimates including a single figure
+o	Interval estimates including an  interval
+o	Triangle distribution estimates including a three-tuple of figures that show the estimated probability distribution.
+IV.	Elicit quality breakpoints: After identifying the reference levels for quality requirements, the market expectations are given in the form of quality breakpoints. The market expectations are identified by
+o	How to judge what is lowest acceptable value
+o	How to judge what is excessive quality
+o	How to judge differentiation quality
+V.	Estimate cost barriers: The cost is estimated after identifying the market expectations of the quality requirements. The cost is estimated in terms of cost barriers. The  cost barriers of the quality requirements can be observed by
+o	How to identify the first cost barrier
+o	How to identify the second cost barrier
+VI.	Set candidate requirements: The estimates are prepared and the candidate requirements are proposed. The requirements which are going to release are discussed and decided. The requirements quality interval can be specified by a Good and a Stretch target. The possible ways to define the requirement interval.
+o	With both a Good target and a Stretch target
+o	With only a Stretch target, which means the highest value is specified.
+o	With only a Good target, which means the lowest accepted value is specified.
+VII.	Identify cost dependencies: If it is important to consider the cost dependencies among the quality requirements to identify the estimates, for each top-n quality requirements, identify the module that to be changed if it is beyond the breakpoint.
+o	How to identify potential dependencies: If the quality requirements affect the architectural part in the same area, then they are dependent.
+The evaluation of the entire QUPER model is carried out in a qualitative research approach. It is named as in-depth semi-structured interviews and self-administration questionnaires. The evolutions are described in the paper clearly. 
+
+Introducing Support for Release Planning of Quality Requirements
+– An Industrial Evaluation of the QUPER Model
+	In this article, the authors introduced a conceptual model that integrates cost and value used in prioritization for functional requirements. The industrial evaluation of this model is presented in this paper. The industry in which the model is implemented is Sony Ericsson, which is a large-scale industry. The main purpose is how the QUPER model is implemented in the company. The main motive of this paper is to how QUPER model is used in the company. The development of QUPER model has been done in three main steps.
+o	Step 1: Problem definition
+o	Step 2: Model definition
+o	Step 3: model validation
+	The QUPER model is developed on observing the quality is continuous and non-linear. Based on the observations the goals selected for QUPER development are
+o	Robust and uncertainties
+o	Easy of use
+o	Domain-relevant
+	The benefits view of QUPER includes three breakpoints.
+o	The utility breakpoint
+o	The differentiation breakpoint
+o	The saturation breakpoint
+	QUPER benefits view is an important part for QUPER model in Sony Ericson. There are four steps to use QUPER benefits view at Sony Ericson, they are
+o	Define quality aspects.
+o	Estimate your product’s current quality.
+o	For each quality aspect and for each relevant qualifier, estimate the breakpoints.
+o	Estimate candidate targets and discuss and decide on actual targets for coming releases.
+	Priority of the project is based on the scope and features of the project. The features are adjusted based on market value estimation and cost estimation in high-level features. The requirements are refined on the basis of quality, functionality of the requirements and if there is any impact on the market. The cost is re-estimated after the features are refined.
+	Objective of research to evaluate are:
+o	The QUPER model in an industrial setting.
+o	How easy the model adapts to existing processes.
+o	What value the QUPER model may bring to release planning.
+A table is provided in the article to show the results of the study. The QUPER model is suitable for high-level decision making for quality requirements for release planning activities. Breakpoints, competitor analysis and identification of own provides a need of requirements of a particular release.
+
+A Market-driven Requirements Engineering Process- Results from an Industrial Process Improvement Programme
+	Requirements engineering process is different in various products. In this article the authors explained a requirements engineering process called REPEAT (Requirements Engineering ProcEss At Telelogic). It is a Swedish CASE-tool vendor Telelogic AB; which is a fast growing company. REPEAT is a process that manages requirements in an entire release cycle. REPEAT is used for elicitation, selecting and managing requirement and release planning. The activities which can be managed are
+o	Requirements Management Group(RQMG)
+o	Issuer
+o	Customer & users
+o	Requirements Team
+o	Construction Team
+o	Test Team
+o	Expert
+o	Requirements Database (RQDB)
+In this process the requirements can be changed at any time. REPEAT process consists of five different phases in separate milestones with a pre-defined dates.
+i.	Elicitation Phase: This phase is of two activities collection and classification. The requirements are collected by issuer who fills the web-form and submits the requirements. Requirements are given in natural language and an explanation for the requirement is given why it is needed.
+ii.	Selection Phase: in this phase the selection of the requirements to be released is done, the requirements are explained in a detail manner and a clear documentation for the requirement is provided.
+iii.	Change Management, Construction, Verification and Conclusion: The REPEAT process enters the Change Management phase after completing the selection phase. After this a new REPEAT process will be started in the Elicitation Phase. The construction phase starts in a continuous way and verification of the requirement document. After completing this it reaches the conclusion phase. In the conclusion phase a review is done and if any changes are made it is documented. As the REPEAT process is done in a Telelogic company some challenges are faced. To overcome the challenges REPEAT-2 is introduced. REPEAT-2 consists of two techniques, they are Hierarchical use-case modelling and Cost value use case prioritization.
+
 
 
 Seminar 1
@@ -32,7 +94,24 @@ Seminar 1
   2.	What tools are available for Continuous Integration?
   3.	What is technical product management?
   4.	What is roadmapping? How can you do it large scale?
-  	
+  
+1.	Continuous integration is an essential part of agile software development setup. During the software development some errors creep in and disturbs the software. Some tools are available for continuous integration to find the errors in the initial stage. They are
+•	Jenkins
+•	Buildbot
+•	Travis CI
+•	Strider
+•	Go
+•	Integrity
+These tools are open source tools.
+2.	Technical product management is a typical task which is handled by a technical product manager. The term technical product manager depicts a product manager with a technical background. Product manager has several important tasks, such as management of requirements, release planning and launching of products.
+3.	Roadmapping is a process in which the list of release plan and the time and date of the release plan. In large scale there are many aspects to be considered before creating the roadmap.
+i.	Business strategies and Processes
+ii.	Determine and meet requirements
+iii.	Define the scope
+iv.	Market analysis
+v.	Product or service analysis
+vi.	Technology analysis
+	
   
 Seminar 2
   1.	Read up on the Boston Matrix
