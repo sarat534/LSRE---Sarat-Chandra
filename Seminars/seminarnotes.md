@@ -260,11 +260,11 @@ The three layers consist of different artifacts in them.
 
 The authors conducted a case study which involved around 5000 employees. This company develops embedded systems using product line approach. A formulated hypothesis is done aiming to cover all aspects within the process of requirements definition through development. The main research was to find the reason behind causes of over-scoping and their efforts for the phase-based process and also the causes and effects of the requirements engineering in an agile context. After performing the interviews and through examination the reason for over-scoping was due to the unclear vision of overall goal. The root cause analysis was done in the best possible way with all the five cases mentioned in the report, several effects of over-scoping are mentioned as quality issues, delays, unfulfillment of customer expectations, communications, and challenge to keep the SRS updated. The answer for the final research question states that most of the interviewees say that over-scoping is RE practices that lead to a number of new challenges. S of the root causes of over-scoping in agile RE practices are mentioned in the report. Validation for all the research questions is mentioned aptly. Finally, authors reported that scoping in an MDRE context is a continuous activity that carries through entire project life cycle.
 
-** “Factors Affecting Decision Outcome and Lead-time in Large-Scale Requirements Engineering”**
+**“Factors Affecting Decision Outcome and Lead-time in Large-Scale Requirements Engineering”**
 
 
 
-** “An industrial survey of requirements interdependencies in software Product release planning”**
+**“An industrial survey of requirements interdependencies in software Product release planning”**
 
 In this report, the research is conducted through a survey at five different companies with the requirements managers i.e. senior project manager, product manager, project manager and all the requirements engineers. They adopted five cases, three out of theses were labeled as product development whereas the remaining two were labeled as bespoke. Data collection is done by asking interviews to select 20 high priority requirements from requirements specification. After detail assessment for theses 20 requirements. Types of interdependencies are clearly mentioned with practical examples. The quantitative results declare that cost was the interdependencies among 20 requirements mentioned by the interviewees. After a comprehensive study, they concluded with some findings. Those are:
 
