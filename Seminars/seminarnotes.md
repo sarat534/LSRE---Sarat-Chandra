@@ -137,6 +137,30 @@ Seminar 4
 3.	Briefly, read and summarise:
     • http://studentarbeten.chalmers.se/publication/220573-assessing-challenges-of-continuous-integration-in-the-context-of-software-r       equirements-breakdown-a-c
 
+
+1.	There are many tools which are useful for requirements management. Some open source tools which are used in small and large-scale industries.
+	Jira (6.4) by Atlassian
+Scope: Issue Management, Project Management, RM
+	in-STEP BLUE (5.0) by microTool GmbH
+Scope: Project Management, RM, Testing
+	Cognition Cockpit (7-4) by Cognition Corporation
+Scope: RM, Product Management, Testing, Project Management
+	HP Quality Center, ALM (12.20) by Hewlett-Packard
+Scope: RM, Testing, Project Management, Issue Management.
+	Caliber (11.4.2) by Borland (Micro Focus)
+Scope: RM, Visual Modeling
+
+2.	There are particular tools for agile requirements management, some of them are
+	acunote (continuous updates) by Pluron Inc.
+Scope: Agile
+	AgileZen (continuous updates) by Rally Software Development Corp.
+Scope: Agile
+	Agilo (continuous updates) by agile42
+Scope: Agile
+	Jira Agile (6.6.80) by Atlassian
+Scope: Agile
+
+
 Seminar 3
 
 Articles
