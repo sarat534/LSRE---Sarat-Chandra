@@ -91,8 +91,7 @@ i.	Elicitation Phase: This phase is of two activities collection and classificat
 ii.	Selection Phase: in this phase the selection of the requirements to be released is done, the requirements are explained in a detail manner and a clear documentation for the requirement is provided.
 iii.	Change Management, Construction, Verification and Conclusion: The REPEAT process enters the Change Management phase after completing the selection phase. After this a new REPEAT process will be started in the Elicitation Phase. The construction phase starts in a continuous way and verification of the requirement document. After completing this it reaches the conclusion phase. In the conclusion phase a review is done and if any changes are made it is documented. As the REPEAT process is done in a Telelogic company some challenges are faced. To overcome the challenges REPEAT-2 is introduced. REPEAT-2 consists of two techniques, they are Hierarchical use-case modelling and Cost value use case prioritization.
 
-
-**Seminar 1**
+# Seminar 1
 
 1.Read up on GAP / CVA / IVA Analysis!
 2.What tools are available for Continuous Integration?
