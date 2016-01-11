@@ -167,7 +167,7 @@ Scope: Agile
 Scope: Agile
 
 
-Seminar 3
+# Seminar 3
 
 Articles
 
@@ -190,3 +190,18 @@ Next there are questions on demographics to know about people of which part of w
 
 Then the author aimed at finding out which type of requirements get obsolete. He eventually found out that the misunderstood requirements are usually the ones which become obsolete. More than 50% of the respondents say that they manually find out the OSR's in their project and this is the primary method. For finding out the means to handle these requirements no reliable method has been suggested or is being used. 
 Then the author has found to different practices to handle these requirements and there are many options suggested by the respondents. Some of them include reviewing the requirements, using tools and marking OSR's, traceability so on and so forth.
+
+# Seminar 4
+
+**Article**
+
+Assessing challenges of continuous Integration in the context of software requirements breakdown: a case study
+
+In this article the companies which are having a good background in agile practices are adopting a new method Continuous integration. Continuous integration is a method where the integration of the developed code in various parts. Continuous integration is a trivial task in which the small-requirements are continuously integrated and tested. A case study is conducted in the telecommunication services and equipment provider. In this paper the challenges, software requirements required for continuous integration are checked.
+Continuous integration is the number of times the changes are made. The check in shows that all the tests are approved. Continuous integration indicates the multiple check-in of the code. It is a part of agile methodology. Continuous integration is an advantage for continuous deployment. The requirements engineering identifies the stakeholders who are involved. Requirements are prioritized and are planned to develop for a release. A RAM model was developed to handle the requirements. A case study provides a qualitative data which will be in-depth. Data is collected through conducting semi-structured interviews. The data is analyzed by both the authors. Some threats can be raised. 
+The case study is conducted in Sony Ericsson. Many cross functional teams worked for the product. The different quality assurance policies are 
+•	Work branch
+•	Latest local version (LLV)
+•	Pre-Test Build
+•	Latest Stable Version (LSV)
+This study shows the challenges and requirements breakdown of continuous integration. The software requirements and breaking of the requirements plays an important role in continuous integration.
