@@ -207,15 +207,19 @@ Stars: In this the market share is high with an increase in the market growth.
 
 **Towards a reference Framework for Software Product Management**
 
-The product management is a typical task. The product management is handled by a product manager. The manager is responsible release and managing the requirements by considering the stakeholders. The basic framework structure is to identify the scope of work. Reference frame work is divided into four categories. They are Portfolio management, Product roadmapping, requirements management and release planning.
-Portfolio management: The product development strategy in the portfolio management consists of partnering and contracting, product lifecycle management, market trend identification and product line identification. 
-Product roadmapping: The roadmapping consist of theme identification, core asset identification and roadmap construction.
+The product management is a typical task. The product management is handled by a product manager. The manager is responsible release and managing the requirements by considering the stakeholders. The basic framework structure is to identify the scope of work. Reference framework is divided into four categories. They are Portfolio management, Product road mapping, requirements management and release planning.
+
+Portfolio management: The product development strategy in the portfolio management consists of partnering and contracting, product lifecycle management, market trend identification, and product line identification. 
+
+Product road mapping: The road mapping consist of theme identification, core asset identification, and roadmap construction.
+
 Requirements management: In the requirements management the main is requirements gathering, requirements identification and organizing the requirements.
+
 Release planning: The release plan consists requirements prioritization, selection of requirements, release definition, scope change management, release validation and launch preparation.
 
 **Market-Driven Requirements Engineering for Software Products**
 
-The main focus of MDRE is to focus in requirements engineering and in development of organization. This paper mainly focuses on finding the design and management of MDRE process and MDRE repository. Moreover it also mentions how to make a profitable release planning. Several characteristics of MDRE are outlined in detail and a finding is declared that MDRE cases are less formal when compared to the bespoke case and mentions that in free natural language text is the best way of documenting the results of MDRE. Several challenges are drawn after the investigation with the employees at five matured different companies. They gave a short explanation on the challenges and described as
+The main focus of MDRE is to focus in requirements engineering and in the development of the organization. This paper mainly focuses on finding the design and management of MDRE process and MDRE repository. Moreover, it also mentions how to make a profitable release planning. Several characteristics of MDRE are outlined in detail and a finding is declared that MDRE cases are less formal when compared to the bespoke case and mentions that in free natural language text is the best way of documenting the results of MDRE. Several challenges are drawn after the investigation with the employees at five matured different companies. They gave a short explanation on the challenges and described as
 
 	Balancing market pull and technology push.
 
@@ -223,7 +227,7 @@ The main focus of MDRE is to focus in requirements engineering and in developmen
 
 	Organizational instability and market turbulence.
 
-	Simple tools for basic need.
+	Simple tools for a basic need.
 
 	Requirements dependencies.
 
@@ -231,7 +235,7 @@ The main focus of MDRE is to focus in requirements engineering and in developmen
 
 	Overloaded requirements management.
 
-The MDRE process is linearly mentioned in detail as process quality and process capability. Later data managements using requirements state model. Market analysis and requirements elicitation is described even roadmapping and release planning is documented which provides a layout. Several roadmaps were categorized into science and technology, industry technology, corporate or product technology and product or portfolio management. A framework is suggested to product roadmap in investment cycle which really provides a provision mechanism to plan and coordinate developments within the organization. Finally concluded that an organization with a potential strategic roadmap will provide an efficient way and an effective decision making which consecutively provides profitable software business.
+The MDRE process is linearly mentioned in detail as process quality and process capability. Later data managements using requirements state model. Market analysis and requirements elicitation are described even road mapping and release planning is documented which provides a layout. Several roadmaps were categorized into science and technology, industry technology, corporate or product technology and product or portfolio management. A framework is suggested to product roadmap in investment cycle which really provides a provisioning mechanism to plan and coordinate developments within the organization. Finally concluded that an organization with a potential strategic roadmap will provide an efficient way and an effective decision making which consecutively provides profitable software business.
 
 **Scaled Agile Framework**
 
@@ -243,13 +247,30 @@ The Scaled Agile framework mainly consists of three layers. They are,
 
 3.	TEAM
 
-The three layers consists of different artifacts in them.
+The three layers consist of different artifacts in them.
 
-1.	PORTFOLIO: It consists of Epics span releases, Architecture evolves continuously and Coordination. Epic span releases consists of Portfolio backlog, business epic and architecture epic. Architecture evolves continuously and coordination consists of epic owners, enterprise architect and Kanban. Coordination consists of program portfolio management, portfolio metrics and strategic themes.
+1.	PORTFOLIO: It consists of Epics span releases, Architecture evolves continuously and Coordination. Epic span releases consist of Portfolio backlog, business epic and architecture epic. Architecture evolves continuously and coordination consists of epic owners, enterprise architect, and Kanban. Coordination consists of program portfolio management, portfolio metrics, and strategic themes.
 
-2.	PROGRAM: It consists of features that are to be released. These consists of Art metrics, release management, system team, product management, roadmapping, vision, program epics and program backlog. The program consists of actors for release management, product management and system team.
+2.	PROGRAM: It consists of features that are to be released. These consists of Art metrics, release management, system team, product management, road mapping, vision, program epics and program backlog. The program consists of actors for release management, product management, and system team.
 
-3.	TEAM: The team consists of stories fit in iterations, spikes, refractors. The iterations consists of sprint goals, team objectives, team backlog. The code quality mainly consist of agile architecture, continuous integration and test-first. The team consists of actors of agile team, developers and testers, product owner and scrum master.
+3.	TEAM: The team consists of stories fit in iterations, spikes, refractors. The iterations consist of sprint goals, team objectives, team backlog. The code quality mainly consists of agile architecture, continuous integration, and test-first. The team consists of actors of an agile team, developers, and testers, product owner and scrum master.
+
+
+**“Are You Biting Off More Than You Can Chew? A Case Study on Causes and Effects of Overscoping in Large-Scale Software Engineering”**
+
+The authors conducted a case study which involved around 5000 employees. This company develops embedded systems using product line approach. A formulated hypothesis is done aiming to cover all aspects within the process of requirements definition through development. The main research was to find the reason behind causes of over-scoping and their efforts for the phase-based process and also the causes and effects of the requirements engineering in an agile context. After performing the interviews and through examination the reason for over-scoping was due to the unclear vision of overall goal. The root cause analysis was done in the best possible way with all the five cases mentioned in the report, several effects of over-scoping are mentioned as quality issues, delays, unfulfillment of customer expectations, communications, and challenge to keep the SRS updated. The answer for the final research question states that most of the interviewees say that over-scoping is RE practices that lead to a number of new challenges. S of the root causes of over-scoping in agile RE practices are mentioned in the report. Validation for all the research questions is mentioned aptly. Finally, authors reported that scoping in an MDRE context is a continuous activity that carries through entire project life cycle.
+
+** “Factors Affecting Decision Outcome and Lead-time in Large-Scale Requirements Engineering”**
+
+** “An industrial survey of requirements interdependencies in software Product release planning”**
+
+In this report, the research is conducted through a survey at five different companies with the requirements managers i.e. senior project manager, product manager, project manager and all the requirements engineers. They adopted five cases, three out of theses were labeled as product development whereas the remaining two were labeled as bespoke. Data collection is done by asking interviews to select 20 high priority requirements from requirements specification. After detail assessment for theses 20 requirements. Types of interdependencies are clearly mentioned with practical examples. The quantitative results declare that cost was the interdependencies among 20 requirements mentioned by the interviewees. After a comprehensive study, they concluded with some findings. Those are:
+
+I.	Roughly, 20% of the requirements are responsible for 75% of the interdependencies.
+
+II.	Only a few requirements are singular.
+
+III.	Customer-specific-bespoke development tends to include more functionality-related dependencies whereas market driven product development have an emphasis on value-related dependencies.
 
 
 
