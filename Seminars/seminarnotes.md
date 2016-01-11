@@ -119,11 +119,17 @@ These tools are open source tools.
 3.Technical product management is a typical task which is handled by a technical product manager. The term technical product manager depicts a product manager with a technical background. Product manager has several important tasks, such as management of requirements, release planning and launching of products.
 
 4.Roadmapping is a process in which the list of release plan and the time and date of the release plan. In large scale there are many aspects to be considered before creating the roadmap.
+
 i.	Business strategies and Processes
+
 ii.	Determine and meet requirements
+
 iii.	Define the scope
+
 iv.	Market analysis
+
 v.	Product or service analysis
+
 vi.	Technology analysis
 
 **Articles**
@@ -131,22 +137,53 @@ vi.	Technology analysis
 **Requirement Abstraction Model**
 
 In market-driven requirement approach, software requirements arrive in different shapes and forms, in particular to this case they are on products rather directed towards them. Market driven requirements are usually generated from both internal and external sources. The problem is that the project managers who were assigned to implement the new way of working are faced with the question of how to take care of the continuous incoming stream of requirements. In this articles, the authors have developed Requirements Abstraction Model (RAM).The model has four abstraction levels which take multiple requirements as input and offers a structured work up of these requirements as an output. The main factors which motivated the authors to develop the Ram model are 
+
 I.	A need is identified in the DanaherMotion Saro AB(DNR) during a software process assessment.
+
 II.	No similar model was found for continuous requirements engineering.
 
 The authors have developed the RAM model in several stages. Two major validation stages which were used by the author are static validation involving brainstorming with the project managers for development, system test, upper management and dynamic validation consisted of using RAM for a real live requirements engineering model.  RAM is an example-driven model which helps in training and are based on the ones developed at DHR. The authors have defined three basic steps to be followed by requirements engineering while using RAM model. The three steps are:
+
 I.	Specify:  In this step the raw requirements are specified and enough information is elicited about it to specify the number of attributes.
+
 II.	Place: In this step we focus on the abstraction levels in which the specified requirements are placed.
+
 III.	Abstraction: In this steps RAM involves the abstraction of a requirement based in the initial placement in step 2 of the original requirement.
+
 According to the authors, RAM can be tailored to satisfy the needs of the different organization rather than only DHR. In a similar way, it can be modified to adapt to the current situation of the development organization. 
 
 **A method for early requirements triage and selection utilizing product strategies**
 
 Requirements inMarket Driven Requirements Engineering (MDRE) come from both internal and external sources which results in a large amount of requirements that threaten the development organization.The authors in this paper explore how different perspectives can be combined to formulate product strategies that are required for early requirements triage and selection and method (MERTS) is proposed. In the paper, the authors describe three parts to be followed by technical project managers using this method.
+
 I.	Part one- Early requirements triage: this part consists of three steps namely specify, assigning weights and comparing requirements. Specifying the direction of the movement of requirements is important which results in an understanding of goals of the specific product.in step 3 points or weights assigned in step 2 show the level strategic alignment of the requirements.
+
 II.	Part two-Requirements selection for release: in the part the authors have described two steps which are specifying product technology road map and step two is estimating the resources
+
 III.	Part three-strategy rationale: it is important to note down the reasoning behind the decisions taken after the strategic answers have been answered, which helps in replication of the decisions which result in success.
+
 The authors have validated this method in the industry. With this, the authors have found factors affecting requirements triage and selection and also a gap was found between the perspectives of strategic managers and technical experts.
+
+**“Requirements Engineering. In search of dependent variables”**
+
+Organizations always try to improve themselves. They try to do this by improving their ability to perform requirements engineering. The success of this can be measured by either the requirement process itself or the primary product of the requirement phases. The difference between independent variables and dependent variables is the independent variable is the process that is to be changed to for increasing the outcome and the outcome that are to be observed are dependent variables. The levels of quality used in this paper are requirements phase, project, product, company, and society. Each of these levels has their own dependent variables like:
+
+I.	Requirements phase: in this level we have dependent variables like requirements cost and time and requirements quality
+
+II.	Project: in this all the elements related to the project are considered like completion time, budget .the dependent variables that relate to in this level are project cost and time, project estimates, the degree of requirements change.
+
+III.	Product: The dependent variables in this level help in determining the success of the product. The measures included are requirements selection, the degree of impact.
+
+IV.	Company: In some cases we cannot tell if a project is a success from dependent variables of the project in such a case measures included in the company are portfolio management, strategic alignment and degree of impact.
+
+V.	Society: considering other factors like environment and company’s which pollute environment or kills people because of its project should be considered failure even if it is profitable. Therefore, products always give rise to positive and negative externalities.
+The authors in this article create a taxonomy of the levels using which impact of requirements engineering process change can be assessed.
+
+
+**“Quality Requirements in Industrial Practice – an extended interview study at eleven companies”**
+
+The characteristics of the product can be determined by Quality Requirements (QR) like usability and performance. In this articles, the authors have performed an extended interview study. The interview was conducted on 22practitioners from 11 different companies of which six are multinational companies. The results of this study emphasis on elicitation, analysis, and management of quality requirements in the industry. The authors have chosen interviews over doing a large survey as the concept of quality requirements is treated and named in different types in various companies. From data collected through interviews, the authors try to analysis and compare how quality requirements are handled in companies working in business-to-business markets and companies that are working in business-to-consumers markets. Next the authors compare and examine the interdependencies among the quality requirements. The authors also try to characterize the selection and management of quality requirements in various activities.
+
 
 
 # Seminar 2
@@ -173,6 +210,45 @@ Product roadmapping: The roadmapping consist of theme identification, core asset
 Requirements management: In the requirements management the main is requirements gathering, requirements identification and organizing the requirements.
 Release planning: The release plan consists requirements prioritization, selection of requirements, release definition, scope change management, release validation and launch preparation.
 
+**Market-Driven Requirements Engineering for Software Products**
+
+The main focus of MDRE is to focus in requirements engineering and in development of organization. This paper mainly focuses on finding the design and management of MDRE process and MDRE repository. Moreover it also mentions how to make a profitable release planning. Several characteristics of MDRE are outlined in detail and a finding is declared that MDRE cases are less formal when compared to the bespoke case and mentions that in free natural language text is the best way of documenting the results of MDRE. Several challenges are drawn after the investigation with the employees at five matured different companies. They gave a short explanation on the challenges and described as
+
+	Balancing market pull and technology push.
+
+	Chasm between marketing and development.
+
+	Organizational instability and market turbulence.
+
+	Simple tools for basic need.
+
+	Requirements dependencies.
+
+	Cost-value estimation and release planning.
+
+	Overloaded requirements management.
+
+The MDRE process is linearly mentioned in detail as process quality and process capability. Later data managements using requirements state model. Market analysis and requirements elicitation is described even roadmapping and release planning is documented which provides a layout. Several roadmaps were categorized into science and technology, industry technology, corporate or product technology and product or portfolio management. A framework is suggested to product roadmap in investment cycle which really provides a provision mechanism to plan and coordinate developments within the organization. Finally concluded that an organization with a potential strategic roadmap will provide an efficient way and an effective decision making which consecutively provides profitable software business.
+
+**Scaled Agile Framework**
+
+The Scaled Agile framework mainly consists of three layers. They are,
+
+1.	PORTFOLIO
+
+2.	PROGRAM
+
+3.	TEAM
+
+The three layers consists of different artifacts in them.
+
+1.	PORTFOLIO: It consists of Epics span releases, Architecture evolves continuously and Coordination. Epic span releases consists of Portfolio backlog, business epic and architecture epic. Architecture evolves continuously and coordination consists of epic owners, enterprise architect and Kanban. Coordination consists of program portfolio management, portfolio metrics and strategic themes.
+
+2.	PROGRAM: It consists of features that are to be released. These consists of Art metrics, release management, system team, product management, roadmapping, vision, program epics and program backlog. The program consists of actors for release management, product management and system team.
+
+3.	TEAM: The team consists of stories fit in iterations, spikes, refractors. The iterations consists of sprint goals, team objectives, team backlog. The code quality mainly consist of agile architecture, continuous integration and test-first. The team consists of actors of agile team, developers and testers, product owner and scrum master.
+
+
 
 
 # Seminar 3
@@ -185,18 +261,28 @@ There are a large number of requirements inflow in the context of Market-Driven 
 
 The author has carried out an extensive survey and used many graphical representations to visualize the results. This process of rapidly changing requirements and handling them before they outdated is a very challenging task. There is a need for the readers to have knowledge in requirements management to understand this phenomenon. According to the authors, the definition of an OSR is
 "An obsolete requirement is a software requirement that is no longer required for the current release and which has no value or business goals for the potential customers or users of a software artifact for various reasons." There are nine different research questions stated and addressed in this article. They range from the most basic level of finding out the correct definition of an OSR to knowing different practices that exist in handling the requirements. The survey questions posted are: 
+
 1. Defining obsolete requirements
+
 2. The potential impact of OSRs
+
 3. Requirements types and OSRs
+
 4. Methods to identify OSRs
+
 5. Handling of identified obsolete software requirements
+
 6. Context factors and obsolete software requirements
+
 7. Where in the requirements lifecycle should OSRs be handled 
+
 8. Existing processes and practices regarding managing OSRs
+
 
 Next there are questions on demographics to know about people of which part of world answering the survey. The correct definition is as already stated above. About 45% of the people say that OSR's are somehow serious whereas 39% actually think they are serious. 
 
 Then the author aimed at finding out which type of requirements get obsolete. He eventually found out that the misunderstood requirements are usually the ones which become obsolete. More than 50% of the respondents say that they manually find out the OSR's in their project and this is the primary method. For finding out the means to handle these requirements no reliable method has been suggested or is being used. 
+
 Then the author has found to different practices to handle these requirements and there are many options suggested by the respondents. Some of them include reviewing the requirements, using tools and marking OSR's, traceability so on and so forth.
 
 # Seminar 4
@@ -211,22 +297,30 @@ Then the author has found to different practices to handle these requirements an
 **Answers**
 
 1.	There are many tools which are useful for requirements management. Some open source tools which are used in small and large-scale industries.
+
 	in-STEP BLUE (5.0) by microTool GmbH
 Scope: Project Management, RM
+
 	Cognition Cockpit (7-4) by Cognition Corporation
 Scope: RM, Product Management, Project Management
+
 	HP Quality Center, ALM (12.20) by Hewlett-Packard
 Scope: RM, Project Management, Issue Management.
+
 	Caliber (11.4.2) by Borland (Micro Focus)
 Scope: RM
 
 2.	There are particular tools for agile requirements management, some of them are
+
 	acunote (continuous updates) by Pluron Inc.
 Scope: Agile
+
 	AgileZen (continuous updates) by Rally Software Development Corp.
 Scope: Agile
+
 	Agilo (continuous updates) by agile42
 Scope: Agile
+
 	Jira Agile (6.6.80) by Atlassian
 Scope: Agile
 
