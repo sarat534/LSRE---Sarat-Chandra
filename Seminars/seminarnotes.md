@@ -106,15 +106,25 @@ iii.	Change Management, Construction, Verification and Conclusion: The REPEAT pr
 1.GAP Analysis: GAP analysis is a method which is used to measure the customer value. It measures the positive and negative gaps 	  between the product and the customer view. GAP analysis helps in finding the characteristics and features of the product and        customer satisfaction is summarized. The positive gap represents in a good and satisfied product for the customer and the negative    gap represents the opposite.
   CVA Analysis: CVA acronym Customer Value Analysis. CVA analysis is same as GAP analysis. But in CVA the competitor product point      view  is also involved. Both GAP and CVA are used in measuring the selection quality post-release. 
   IVA Analysis: IVA acronym Internet Value Analysis. It is a method to make sure that the product is maintaining the company            strategies, resources and considering other products.
+  
+2.	Continuous integration is an essential part of agile software development setup. During the software development, some errors creep in and disturbs the software. Some tools are available for continuous integration to find the errors in the initial stage. They are
 
-2.Continuous integration is an essential part of agile software development setup. During the software development some errors creep in and disturbs the software. Some tools are available for continuous integration to find the errors in the initial stage. They are
-•Jenkins
-•Buildbot
-•Travis CI
-•Strider
-•Go
-•Integrity
-These tools are open source tools.
+•	Jenkins: This is a continuous integration tool. It is available as a service from third-party vendors. This tool can be found in https://jenkins-ci.org/
+
+•	Buildbot: This is a continuous integration tool which is to be developed in Python. This tool can be found in http://buildbot.net/
+
+•	Travis CI: This is a continuous integration tool, which is one of the easiest CI to start. This tool can be found in https://travis-ci.com/
+
+•	Strider: This is a continuous integration tool which can be easily customizable through plugins. This tool can be found in https://github.com/Strider-CD/strider
+
+•	Go: This is a continuous integration tool which is open sourced by ThoughtWorks. This tool can be found in https://www.go.cd/
+
+•	Integrity: This is a continuous integration which works with git only. This tool can be found in https://github.com/integrity
+
+These tools are open source tools. 
+The tool which is used by me is Travis CI. This tool helps in finding the errors in the code instantly when a change is occurred in the code. As the code is first updated the tool builds it immediately and for the second change I eventually introduced an error to see the way of working of the tool, and the tool immediately checks the code and gives a fail message. So this way the CI is helpful to the developers to immediately know the code bugs and rectify it at that time.
+
+
 
 3.Technical product management is a typical task which is handled by a technical product manager. The term technical product manager depicts a product manager with a technical background. Product manager has several important tasks, such as management of requirements, release planning and launching of products.
 
