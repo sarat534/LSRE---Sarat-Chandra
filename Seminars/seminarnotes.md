@@ -125,11 +125,19 @@ v.	Product or service analysis
 vi.	Technology analysis
 	
   
-Seminar 2
+**Seminar 2**
 1.	Read up on the Boston Matrix
 2.	How do you connect your requirements to your architecture?
 3.	Can you connect all requirements directly? What do you do if you cannot?
   	
+**Answers:**
+
+1.	Boston matrix is a tool which is used for managing and analyzing the product. Boston matrix consists of market growth on the Y-axis and relative market share on X-axis. Boston matrix describes the X-axis and Y-axis influence on market share by four categories. They are dogs, cash cows, question marks or problem children and stars.
+Dogs: The problems faced in this area are of low market share and low market growth.
+Cash Cows: These have a high market share in low growing market.
+Question marks or Problem Children: In this there is a sudden growth and the resources utilization is high. These have a low market share.
+Stars: In this the market share is high with an increase in the market growth.
+
   
 Seminar 4
 1.	What tools are available for requirements management?
