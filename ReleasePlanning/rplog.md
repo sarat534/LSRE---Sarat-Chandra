@@ -68,33 +68,33 @@ Issue #63: First Login
 Issue #79: Account Activity
 Issue #109: Session Manager
 
-# Week 52
-https://drive.google.com/file/d/0B-XA85JM_5ccYzlvOERWY0djWnM/view?usp=sharing
-The release planning versions and the issues are assigned to the milestones. It is described in the above link.
-The prioritization of the requirements is the main process in which a good release can be done. The decision of prioritization is taken by the stakeholders which includes the users and the development team. As a team we have considered the prioritization techniques which are used in an article “Berander, Patrik, and Anneliese Andrews. "Requirements prioritization." Engineering and managing software requirements. Springer Berlin Heidelberg, 2005. 69-94.”.
-Assigned Issues:
-Issue #109: Session Manager
-Label: Functionality, Milestone: Version 0.5
-Issue #92: Recovery Email
-Label: Enhancement, Milestone: Version 0.8
-Issue #88: Login Credentials
-Label: Clarification, Milestone: Version 0.8
-Issue #55: Access to Add, Edit and Remove course news items
-Label: Clarification, Milestone: Version 0.5
-Issue #48: Access to edit course info (syllabus)
-Label: Functionality, Milestone: Version 0.9
-Issue #47: Access to view course info
-Label: Feature, Milestone: Version 0.9
-Issue #8: Course Information
-Label: Feature, Milestone: Version 0.8
-Issue #61: Incorrect Login
-Label: Clarification, Milestone: Version 0.8
-Issue #62: Successful Login
-Label: Enhancement, Milestone: Version 0.1
-Issue #63: First Login
-Label: Clarification, Milestone: Version 0.8
-Issue #79: Account Activity
-Label: Enhancement, Milestone: Version 0.8
+# Week 52  <br>
+https://drive.google.com/file/d/0B-XA85JM_5ccYzlvOERWY0djWnM/view?usp=sharing   <br>
+The release planning versions and the issues are assigned to the milestones. It is described in the above link.   <br>
+The prioritization of the requirements is the main process in which a good release can be done. The decision of prioritization is taken by the stakeholders which includes the users and the development team. As a team we have considered the prioritization techniques which are used in an article “Berander, Patrik, and Anneliese Andrews. "Requirements prioritization." Engineering and managing software requirements. Springer Berlin Heidelberg, 2005. 69-94.”.   <br>
+Assigned Issues:   <br>
+Issue #109: Session Manager   <br>
+Label: Functionality, Milestone: Version 0.5   <br>
+Issue #92: Recovery Email   <br>
+Label: Enhancement, Milestone: Version 0.8   <br>
+Issue #88: Login Credentials   <br>
+Label: Clarification, Milestone: Version 0.8   <br>
+Issue #55: Access to Add, Edit and Remove course news items   <br>
+Label: Clarification, Milestone: Version 0.5   <br>
+Issue #48: Access to edit course info (syllabus)   <br>
+Label: Functionality, Milestone: Version 0.9   <br>
+Issue #47: Access to view course info   <br>
+Label: Feature, Milestone: Version 0.9   <br>
+Issue #8: Course Information   <br>
+Label: Feature, Milestone: Version 0.8   <br>
+Issue #61: Incorrect Login   <br>
+Label: Clarification, Milestone: Version 0.8   <br>
+Issue #62: Successful Login   <br>
+Label: Enhancement, Milestone: Version 0.1   <br>
+Issue #63: First Login   <br>
+Label: Clarification, Milestone: Version 0.8   <br>
+Issue #79: Account Activity   <br>
+Label: Enhancement, Milestone: Version 0.8   <br>
 
 
 
