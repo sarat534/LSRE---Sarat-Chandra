@@ -139,8 +139,6 @@ Seminar 4
 
 
 1.	There are many tools which are useful for requirements management. Some open source tools which are used in small and large-scale industries.
-	Jira (6.4) by Atlassian
-Scope: Issue Management, Project Management, RM
 	in-STEP BLUE (5.0) by microTool GmbH
 Scope: Project Management, RM, Testing
 	Cognition Cockpit (7-4) by Cognition Corporation
