@@ -169,9 +169,12 @@ Then the author has found to different practices to handle these requirements an
 # Seminar 4
 
 1.	What tools are available for requirements management?
+
 2.	Any particular tools for agile requirements management?
+
 3.	Briefly, read and summarise:
-    • http://studentarbeten.chalmers.se/publication/220573-assessing-challenges-of-continuous-integration-in-the-context-of-software-r       equirements-breakdown-a-c
+• http://studentarbeten.chalmers.se/publication/220573-assessing-challenges-of-continuous-integration-in-the-context-of-software-requirements-breakdown-a-c
+
 **Answers**
 
 1.	There are many tools which are useful for requirements management. Some open source tools which are used in small and large-scale industries.
