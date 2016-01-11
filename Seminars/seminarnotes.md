@@ -192,8 +192,7 @@ The goal of developing a software system is it meet the stakeholders needs and e
 # Seminar 2
 
 1.	Read up on the Boston Matrix
-2.	How do you connect your requirements to your architecture?
-3.	Can you connect all requirements directly? What do you do if you cannot?
+
   	
 **Answers:**
 
@@ -259,9 +258,6 @@ The three layers consist of different artifacts in them.
 **“Are You Biting Off More Than You Can Chew? A Case Study on Causes and Effects of Overscoping in Large-Scale Software Engineering”**
 
 The authors conducted a case study which involved around 5000 employees. This company develops embedded systems using product line approach. A formulated hypothesis is done aiming to cover all aspects within the process of requirements definition through development. The main research was to find the reason behind causes of over-scoping and their efforts for the phase-based process and also the causes and effects of the requirements engineering in an agile context. After performing the interviews and through examination the reason for over-scoping was due to the unclear vision of overall goal. The root cause analysis was done in the best possible way with all the five cases mentioned in the report, several effects of over-scoping are mentioned as quality issues, delays, unfulfillment of customer expectations, communications, and challenge to keep the SRS updated. The answer for the final research question states that most of the interviewees say that over-scoping is RE practices that lead to a number of new challenges. S of the root causes of over-scoping in agile RE practices are mentioned in the report. Validation for all the research questions is mentioned aptly. Finally, authors reported that scoping in an MDRE context is a continuous activity that carries through entire project life cycle.
-
-**“Factors Affecting Decision Outcome and Lead-time in Large-Scale Requirements Engineering”**
-
 
 
 **“An industrial survey of requirements interdependencies in software Product release planning”**
