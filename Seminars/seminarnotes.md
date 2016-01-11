@@ -2,11 +2,13 @@ Seminar 0
   1.	What is large scale requirements engineering?
   2.	What are the challenges in large scale requirements engineering?
   3.	What is the order of magnitude of the number of requirements we are
-      discussing?
+	discussing?
 
 Answers:
   1.	Gathering requirements for developing a software system from large scale organizations is called as large scale requirements          engineering.
-  2.  The main challenges observed in large scale requirements engineering are gathering the requirements, prioritizing the                 requirements, analyzing the requirements, satisfying the customer value. The requirements are gathered base on the need of            stakeholders.The requirements are to be prioritized so that which requirements can be done first. The prioritization of the           requirements is done based on the importance of the requirement. 
+  
+  2.  The main challenges observed in large scale requirements engineering are gathering the requirements, prioritizing the                 requirements, analyzing the requirements, satisfying the customer value. The requirements are gathered base on the need of            stakeholders.The requirements are to be prioritized so that which requirements can be done first. The prioritization of the           requirements is done based on the importance of the requirement.
+ 
   3.  The order of magnitude would be 1000 or more than 1000 requirements in large-scale requirements. In a very large-scale                requirements, it would be more than 10,000 and may also exceed. 
 
 
@@ -24,7 +26,7 @@ Answers:
   
   A Case Study Evaluationof the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
   
-  	In this article, the authors illustrated about the guidelines in supporting a QUPER model and integrated the cost dependencies in the model. The model is evaluated by applying the techniques in an organization. The QUPER model and cost dependencies have a high impact on quality of the requirements and the leads to change in the estimated budget. The budget may increase and also effects the release planning. The guidelines which help in integrating cost dependency in QUPER model are
+  In this article, the authors illustrated about the guidelines in supporting a QUPER model and integrated the cost dependencies in the model. The model is evaluated by applying the techniques in an organization. The QUPER model and cost dependencies have a high impact on quality of the requirements and the leads to change in the estimated budget. The budget may increase and also effects the release planning. The guidelines which help in integrating cost dependency in QUPER model are
 I.	Identify candidate QR: While identifying the quality requirements the relevant features, competitor and hardware capability should be considered. If many quality requirements are identified the QUPER’s model is useful. But in some quality requirements, QUPER is not consistent.
 II.	Define scale and unit: A scale and measurements should be defined to explain the level of quality of the requirements.
 III.	Identify reference levels: identifying reference levels to the quality requirements will be useful basing on the actual products. Estimates can be given in three forms,
