@@ -99,7 +99,11 @@ Seminar 1
 4.What is roadmapping? How can you do it large scale?
 Answers:
 
-1.Continuous integration is an essential part of agile software development setup. During the software development some errors creep in and disturbs the software. Some tools are available for continuous integration to find the errors in the initial stage. They are
+1.GAP Analysis: GAP analysis is a method which is used to measure the customer value. It measures the positive and negative gaps 	  between the product and the customer view. GAP analysis helps in finding the characteristics and features of the product and        customer satisfaction is summarized. The positive gap represents in a good and satisfied product for the customer and the negative    gap represents the opposite.
+  CVA Analysis: CVA acronym Customer Value Analysis. CVA analysis is same as GAP analysis. But in CVA the competitor product point      view  is also involved. Both GAP and CVA are used in measuring the selection quality post-release. 
+  IVA Analysis: IVA acronym Internet Value Analysis. It is a method to make sure that the product is maintaining the company            strategies, resources and considering other products.
+
+2.Continuous integration is an essential part of agile software development setup. During the software development some errors creep in and disturbs the software. Some tools are available for continuous integration to find the errors in the initial stage. They are
 •Jenkins
 •Buildbot
 •Travis CI
@@ -108,9 +112,9 @@ Answers:
 •Integrity
 These tools are open source tools.
 
-2.	Technical product management is a typical task which is handled by a technical product manager. The term technical product manager depicts a product manager with a technical background. Product manager has several important tasks, such as management of requirements, release planning and launching of products.
+3.	Technical product management is a typical task which is handled by a technical product manager. The term technical product manager depicts a product manager with a technical background. Product manager has several important tasks, such as management of requirements, release planning and launching of products.
 
-3.	Roadmapping is a process in which the list of release plan and the time and date of the release plan. In large scale there are many aspects to be considered before creating the roadmap.
+4.	Roadmapping is a process in which the list of release plan and the time and date of the release plan. In large scale there are many aspects to be considered before creating the roadmap.
 i.	Business strategies and Processes
 ii.	Determine and meet requirements
 iii.	Define the scope
