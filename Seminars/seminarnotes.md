@@ -94,10 +94,14 @@ iii.	Change Management, Construction, Verification and Conclusion: The REPEAT pr
 # Seminar 1
 
 1.Read up on GAP / CVA / IVA Analysis!
+
 2.What tools are available for Continuous Integration?
+
 3.What is technical product management?
+
 4.What is roadmapping? How can you do it large scale?
-Answers:
+
+**Answers:**
 
 1.GAP Analysis: GAP analysis is a method which is used to measure the customer value. It measures the positive and negative gaps 	  between the product and the customer view. GAP analysis helps in finding the characteristics and features of the product and        customer satisfaction is summarized. The positive gap represents in a good and satisfied product for the customer and the negative    gap represents the opposite.
   CVA Analysis: CVA acronym Customer Value Analysis. CVA analysis is same as GAP analysis. But in CVA the competitor product point      view  is also involved. Both GAP and CVA are used in measuring the selection quality post-release. 
@@ -112,9 +116,9 @@ Answers:
 •Integrity
 These tools are open source tools.
 
-3.	Technical product management is a typical task which is handled by a technical product manager. The term technical product manager depicts a product manager with a technical background. Product manager has several important tasks, such as management of requirements, release planning and launching of products.
+3.Technical product management is a typical task which is handled by a technical product manager. The term technical product manager depicts a product manager with a technical background. Product manager has several important tasks, such as management of requirements, release planning and launching of products.
 
-4.	Roadmapping is a process in which the list of release plan and the time and date of the release plan. In large scale there are many aspects to be considered before creating the roadmap.
+4.Roadmapping is a process in which the list of release plan and the time and date of the release plan. In large scale there are many aspects to be considered before creating the roadmap.
 i.	Business strategies and Processes
 ii.	Determine and meet requirements
 iii.	Define the scope
@@ -140,7 +144,7 @@ Stars: In this the market share is high with an increase in the market growth.
 
 # Seminar 3
 
-Articles
+**Articles**
 
 Obsolete Software Requirements:
 
@@ -190,7 +194,7 @@ Scope: Agile
 	Jira Agile (6.6.80) by Atlassian
 Scope: Agile
 
-**Article**
+**Articles**
 
 Assessing challenges of continuous Integration in the context of software requirements breakdown: a case study
 
