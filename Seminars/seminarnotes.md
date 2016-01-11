@@ -281,6 +281,11 @@ III.	Customer-specific-bespoke development tends to include more functionality-r
 
 **Articles**
 
+**“What Happened to Our Features? Visualization and Understanding of Scope Change Dynamics in a Large-Scale Industrial Setting”**
+
+Authors in this paper present a technique called Feature Survival Chart (FSC). The study in this paper an industrial case study in large-scale. The FSL was used for visualization of change in scoping dynamics. Their main interest was in analyzing the length of the particular project, the number of features considered in the scope of project and possibility to visualize and analyze scope changes. For the investigation, they have selected three most interesting projects. After all detailed theoretical analysis of measurements theoretical analysis of measurements and empirical application of measurements they conclude that their visualization technique provides appropriate feedback about ongoing scope activities. They also suggest that the measurement present in their visualization technique provide quantitative characterization and qualitative rationale for decisions. Their useful results were then again case studied in a company to adjust the process towards more flexibility in scope. From their research, they suggest that table based textual method is helpful for tracking the scope changes.
+
+
 **Obsolete Software Requirements**
 
 There are a large number of requirements inflow in the context of Market-Driven Requirements Engineering (MDRE). It is very crucial for the companies to act for these rapidly changing requirements and find effective ways to handle them to stay in the competition. There is not much research that has been carried out in this field of Obsolete Software Requirements. In this article to find out some data regarding the concept of Obsolete Software Requirements (OSR) has carried out a survey with 219 participants across the globe.
