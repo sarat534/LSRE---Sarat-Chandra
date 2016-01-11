@@ -123,7 +123,8 @@ v.	Product or service analysis
 vi.	Technology analysis
 	
   
-**Seminar 2**
+# Seminar 2
+
 1.	Read up on the Boston Matrix
 2.	How do you connect your requirements to your architecture?
 3.	Can you connect all requirements directly? What do you do if you cannot?
@@ -135,34 +136,6 @@ Dogs: The problems faced in this area are of low market share and low market gro
 Cash Cows: These have a high market share in low growing market.
 Question marks or Problem Children: In this there is a sudden growth and the resources utilization is high. These have a low market share.
 Stars: In this the market share is high with an increase in the market growth.
-
-  
-Seminar 4
-1.	What tools are available for requirements management?
-2.	Any particular tools for agile requirements management?
-3.	Briefly, read and summarise:
-    • http://studentarbeten.chalmers.se/publication/220573-assessing-challenges-of-continuous-integration-in-the-context-of-software-r       equirements-breakdown-a-c
-
-
-1.	There are many tools which are useful for requirements management. Some open source tools which are used in small and large-scale industries.
-	in-STEP BLUE (5.0) by microTool GmbH
-Scope: Project Management, RM
-	Cognition Cockpit (7-4) by Cognition Corporation
-Scope: RM, Product Management, Project Management
-	HP Quality Center, ALM (12.20) by Hewlett-Packard
-Scope: RM, Project Management, Issue Management.
-	Caliber (11.4.2) by Borland (Micro Focus)
-Scope: RM
-
-2.	There are particular tools for agile requirements management, some of them are
-	acunote (continuous updates) by Pluron Inc.
-Scope: Agile
-	AgileZen (continuous updates) by Rally Software Development Corp.
-Scope: Agile
-	Agilo (continuous updates) by agile42
-Scope: Agile
-	Jira Agile (6.6.80) by Atlassian
-Scope: Agile
 
 
 # Seminar 3
@@ -190,6 +163,32 @@ Then the author aimed at finding out which type of requirements get obsolete. He
 Then the author has found to different practices to handle these requirements and there are many options suggested by the respondents. Some of them include reviewing the requirements, using tools and marking OSR's, traceability so on and so forth.
 
 # Seminar 4
+
+1.	What tools are available for requirements management?
+2.	Any particular tools for agile requirements management?
+3.	Briefly, read and summarise:
+    • http://studentarbeten.chalmers.se/publication/220573-assessing-challenges-of-continuous-integration-in-the-context-of-software-r       equirements-breakdown-a-c
+**Answers**
+
+1.	There are many tools which are useful for requirements management. Some open source tools which are used in small and large-scale industries.
+	in-STEP BLUE (5.0) by microTool GmbH
+Scope: Project Management, RM
+	Cognition Cockpit (7-4) by Cognition Corporation
+Scope: RM, Product Management, Project Management
+	HP Quality Center, ALM (12.20) by Hewlett-Packard
+Scope: RM, Project Management, Issue Management.
+	Caliber (11.4.2) by Borland (Micro Focus)
+Scope: RM
+
+2.	There are particular tools for agile requirements management, some of them are
+	acunote (continuous updates) by Pluron Inc.
+Scope: Agile
+	AgileZen (continuous updates) by Rally Software Development Corp.
+Scope: Agile
+	Agilo (continuous updates) by agile42
+Scope: Agile
+	Jira Agile (6.6.80) by Atlassian
+Scope: Agile
 
 **Article**
 
