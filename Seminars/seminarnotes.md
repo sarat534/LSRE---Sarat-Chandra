@@ -125,8 +125,30 @@ iii.	Define the scope
 iv.	Market analysis
 v.	Product or service analysis
 vi.	Technology analysis
-	
-  
+
+**Articles**
+
+**Requirement Abstraction Model**
+
+In market-driven requirement approach, software requirements arrive in different shapes and forms, in particular to this case they are on products rather directed towards them. Market driven requirements are usually generated from both internal and external sources. The problem is that the project managers who were assigned to implement the new way of working are faced with the question of how to take care of the continuous incoming stream of requirements. In this articles, the authors have developed Requirements Abstraction Model (RAM).The model has four abstraction levels which take multiple requirements as input and offers a structured work up of these requirements as an output. The main factors which motivated the authors to develop the Ram model are 
+I.	A need is identified in the DanaherMotion Saro AB(DNR) during a software process assessment.
+II.	No similar model was found for continuous requirements engineering.
+
+The authors have developed the RAM model in several stages. Two major validation stages which were used by the author are static validation involving brainstorming with the project managers for development, system test, upper management and dynamic validation consisted of using RAM for a real live requirements engineering model.  RAM is an example-driven model which helps in training and are based on the ones developed at DHR. The authors have defined three basic steps to be followed by requirements engineering while using RAM model. The three steps are:
+I.	Specify:  In this step the raw requirements are specified and enough information is elicited about it to specify the number of attributes.
+II.	Place: In this step we focus on the abstraction levels in which the specified requirements are placed.
+III.	Abstraction: In this steps RAM involves the abstraction of a requirement based in the initial placement in step 2 of the original requirement.
+According to the authors, RAM can be tailored to satisfy the needs of the different organization rather than only DHR. In a similar way, it can be modified to adapt to the current situation of the development organization. 
+
+**A method for early requirements triage and selection utilizing product strategies**
+
+Requirements inMarket Driven Requirements Engineering (MDRE) come from both internal and external sources which results in a large amount of requirements that threaten the development organization.The authors in this paper explore how different perspectives can be combined to formulate product strategies that are required for early requirements triage and selection and method (MERTS) is proposed. In the paper, the authors describe three parts to be followed by technical project managers using this method.
+I.	Part one- Early requirements triage: this part consists of three steps namely specify, assigning weights and comparing requirements. Specifying the direction of the movement of requirements is important which results in an understanding of goals of the specific product.in step 3 points or weights assigned in step 2 show the level strategic alignment of the requirements.
+II.	Part two-Requirements selection for release: in the part the authors have described two steps which are specifying product technology road map and step two is estimating the resources
+III.	Part three-strategy rationale: it is important to note down the reasoning behind the decisions taken after the strategic answers have been answered, which helps in replication of the decisions which result in success.
+The authors have validated this method in the industry. With this, the authors have found factors affecting requirements triage and selection and also a gap was found between the perspectives of strategic managers and technical experts.
+
+
 # Seminar 2
 
 1.	Read up on the Boston Matrix
