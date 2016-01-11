@@ -1,10 +1,10 @@
-Seminar 0
+# Seminar 0
   1.	What is large scale requirements engineering?
   2.	What are the challenges in large scale requirements engineering?
   3.	What is the order of magnitude of the number of requirements we are
 	discussing?
 
-Answers:
+**Answers:**
   1.	Gathering requirements for developing a software system from large scale organizations is called as large scale requirements          engineering.
   
   2.  The main challenges observed in large scale requirements engineering are gathering the requirements, prioritizing the                 requirements, analyzing the requirements, satisfying the customer value. The requirements are gathered base on the need of            stakeholders.The requirements are to be prioritized so that which requirements can be done first. The prioritization of the           requirements is done based on the importance of the requirement.
@@ -12,7 +12,7 @@ Answers:
   3.  The order of magnitude would be 1000 or more than 1000 requirements in large-scale requirements. In a very large-scale                requirements, it would be more than 10,000 and may also exceed. 
 
 
-  Articles
+**Articles**
   
   The Art and Science of Software Release Planning
   
@@ -92,8 +92,7 @@ ii.	Selection Phase: in this phase the selection of the requirements to be relea
 iii.	Change Management, Construction, Verification and Conclusion: The REPEAT process enters the Change Management phase after completing the selection phase. After this a new REPEAT process will be started in the Elicitation Phase. The construction phase starts in a continuous way and verification of the requirement document. After completing this it reaches the conclusion phase. In the conclusion phase a review is done and if any changes are made it is documented. As the REPEAT process is done in a Telelogic company some challenges are faced. To overcome the challenges REPEAT-2 is introduced. REPEAT-2 consists of two techniques, they are Hierarchical use-case modelling and Cost value use case prioritization.
 
 
-
-Seminar 1
+**Seminar 1**
 
 1.Read up on GAP / CVA / IVA Analysis!
 2.What tools are available for Continuous Integration?
