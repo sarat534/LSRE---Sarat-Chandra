@@ -262,6 +262,8 @@ The authors conducted a case study which involved around 5000 employees. This co
 
 ** “Factors Affecting Decision Outcome and Lead-time in Large-Scale Requirements Engineering”**
 
+
+
 ** “An industrial survey of requirements interdependencies in software Product release planning”**
 
 In this report, the research is conducted through a survey at five different companies with the requirements managers i.e. senior project manager, product manager, project manager and all the requirements engineers. They adopted five cases, three out of theses were labeled as product development whereas the remaining two were labeled as bespoke. Data collection is done by asking interviews to select 20 high priority requirements from requirements specification. After detail assessment for theses 20 requirements. Types of interdependencies are clearly mentioned with practical examples. The quantitative results declare that cost was the interdependencies among 20 requirements mentioned by the interviewees. After a comprehensive study, they concluded with some findings. Those are:
