@@ -14,7 +14,7 @@
 
 **Articles**
   
-  The Art and Science of Software Release Planning
+**The Art and Science of Software Release Planning**
   
   This article is about the art and science of a release planning. The art of release planning approach relays on communication and     human intuition, whereas the science of release planning approach applies algorithms to specify the problem and to obtain better      solutions for the problem. In this article, the combination of both art and science is proposed to define optimal release planning.
   Release planning is an important event for a developed product. An assumption is made to characterize a good release plan based on    some criteria.
@@ -24,7 +24,7 @@
   •	Reflecting existing dependencies between features.
   The difficulties which are faced in an organization is to provide a good release plan. These difficulties are based on the            complexity of the problems. These complexities are to be described in a formal way to determine a good release plan. Release          planning is based on ad hoc not on the methodologies used for the development. According to CMMI the main motive of a project         release plan is to involve the stakeholders, commitments towards the plan and maintaining the plan. In this paper the author          represented two approaches for release planning. The first one is ‘art of release planning’ which mainly considers the human          intuition   and communication. And the second one is ‘the science of release planning’ which relays on the methodology and accurate   data. For art of release planning small releases help in providing a fast feedback from the customer which is a key principle of      extreme programming. For science of release planning all the data should be formalized. As most of this is carried in ad hoc some     researchers formulated some models. Some features have dependencies between them so they can be coupled and released in a single      release. The features are prioritize based on the importance of the features. As both the approaches are having their own             explanation they are complementary.
   
-  A Case Study Evaluationof the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
+**A Case Study Evaluationof the Guideline-Supported QUPER Model for Elicitation of Quality Requirements**
   
   In this article, the authors illustrated about the guidelines in supporting a QUPER model and integrated the cost dependencies in the model. The model is evaluated by applying the techniques in an organization. The QUPER model and cost dependencies have a high impact on quality of the requirements and the leads to change in the estimated budget. The budget may increase and also effects the release planning. The guidelines which help in integrating cost dependency in QUPER model are
 I.	Identify candidate QR: While identifying the quality requirements the relevant features, competitor and hardware capability should be considered. If many quality requirements are identified the QUPER’s model is useful. But in some quality requirements, QUPER is not consistent.
@@ -48,8 +48,8 @@ VII.	Identify cost dependencies: If it is important to consider the cost depende
 o	How to identify potential dependencies: If the quality requirements affect the architectural part in the same area, then they are dependent.
 The evaluation of the entire QUPER model is carried out in a qualitative research approach. It is named as in-depth semi-structured interviews and self-administration questionnaires. The evolutions are described in the paper clearly. 
 
-Introducing Support for Release Planning of Quality Requirements
-– An Industrial Evaluation of the QUPER Model
+**Introducing Support for Release Planning of Quality Requirements
+– An Industrial Evaluation of the QUPER Model**
 
 	In this article, the authors introduced a conceptual model that integrates cost and value used in prioritization for functional requirements. The industrial evaluation of this model is presented in this paper. The industry in which the model is implemented is Sony Ericsson, which is a large-scale industry. The main purpose is how the QUPER model is implemented in the company. The main motive of this paper is to how QUPER model is used in the company. The development of QUPER model has been done in three main steps.
 o	Step 1: Problem definition
@@ -75,7 +75,7 @@ o	How easy the model adapts to existing processes.
 o	What value the QUPER model may bring to release planning.
 A table is provided in the article to show the results of the study. The QUPER model is suitable for high-level decision making for quality requirements for release planning activities. Breakpoints, competitor analysis and identification of own provides a need of requirements of a particular release.
 
-A Market-driven Requirements Engineering Process- Results from an Industrial Process Improvement Programme
+**A Market-driven Requirements Engineering Process- Results from an Industrial Process Improvement Programme**
 
 Requirements engineering process is different in various products. In this article the authors explained a requirements engineering process called REPEAT (Requirements Engineering ProcEss At Telelogic). It is a Swedish CASE-tool vendor Telelogic AB; which is a fast growing company. REPEAT is a process that manages requirements in an entire release cycle. REPEAT is used for elicitation, selecting and managing requirement and release planning. The activities which can be managed are
 o	Requirements Management Group(RQMG)
@@ -168,7 +168,7 @@ Stars: In this the market share is high with an increase in the market growth.
 
 **Articles**
 
-Obsolete Software Requirements:
+**Obsolete Software Requirements**
 
 There are a large number of requirements inflow in the context of Market-Driven Requirements Engineering (MDRE). It is very crucial for the companies to act for these rapidly changing requirements and find effective ways to handle them to stay in the competition. There is not much research that has been carried out in this field of Obsolete Software Requirements. In this article to find out some data regarding the concept of Obsolete Software Requirements (OSR) has carried out a survey with 219 participants across the globe.
 
@@ -221,7 +221,7 @@ Scope: Agile
 
 **Articles**
 
-Assessing challenges of continuous Integration in the context of software requirements breakdown: a case study
+**Assessing challenges of continuous Integration in the context of software requirements breakdown: a case study**
 
 In this article the companies which are having a good background in agile practices are adopting a new method Continuous integration. Continuous integration is a method where the integration of the developed code in various parts. Continuous integration is a trivial task in which the small-requirements are continuously integrated and tested. A case study is conducted in the telecommunication services and equipment provider. In this paper the challenges, software requirements required for continuous integration are checked.
 Continuous integration is the number of times the changes are made. The check in shows that all the tests are approved. Continuous integration indicates the multiple check-in of the code. It is a part of agile methodology. Continuous integration is an advantage for continuous deployment. The requirements engineering identifies the stakeholders who are involved. Requirements are prioritized and are planned to develop for a release. A RAM model was developed to handle the requirements. A case study provides a qualitative data which will be in-depth. Data is collected through conducting semi-structured interviews. The data is analyzed by both the authors. Some threats can be raised. 
