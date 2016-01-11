@@ -163,6 +163,17 @@ Cash Cows: These have a high market share in low growing market.
 Question marks or Problem Children: In this there is a sudden growth and the resources utilization is high. These have a low market share.
 Stars: In this the market share is high with an increase in the market growth.
 
+**Articles**
+
+**Towards a reference Framework for Software Product Management**
+
+The product management is a typical task. The product management is handled by a product manager. The manager is responsible release and managing the requirements by considering the stakeholders. The basic framework structure is to identify the scope of work. Reference frame work is divided into four categories. They are Portfolio management, Product roadmapping, requirements management and release planning.
+Portfolio management: The product development strategy in the portfolio management consists of partnering and contracting, product lifecycle management, market trend identification and product line identification. 
+Product roadmapping: The roadmapping consist of theme identification, core asset identification and roadmap construction.
+Requirements management: In the requirements management the main is requirements gathering, requirements identification and organizing the requirements.
+Release planning: The release plan consists requirements prioritization, selection of requirements, release definition, scope change management, release validation and launch preparation.
+
+
 
 # Seminar 3
 
