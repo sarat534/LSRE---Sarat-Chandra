@@ -140,13 +140,13 @@ Seminar 4
 
 1.	There are many tools which are useful for requirements management. Some open source tools which are used in small and large-scale industries.
 	in-STEP BLUE (5.0) by microTool GmbH
-Scope: Project Management, RM, Testing
+Scope: Project Management, RM
 	Cognition Cockpit (7-4) by Cognition Corporation
-Scope: RM, Product Management, Testing, Project Management
+Scope: RM, Product Management, Project Management
 	HP Quality Center, ALM (12.20) by Hewlett-Packard
-Scope: RM, Testing, Project Management, Issue Management.
+Scope: RM, Project Management, Issue Management.
 	Caliber (11.4.2) by Borland (Micro Focus)
-Scope: RM, Visual Modeling
+Scope: RM
 
 2.	There are particular tools for agile requirements management, some of them are
 	acunote (continuous updates) by Pluron Inc.
