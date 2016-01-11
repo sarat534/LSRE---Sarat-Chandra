@@ -77,7 +77,7 @@ A table is provided in the article to show the results of the study. The QUPER m
 
 A Market-driven Requirements Engineering Process- Results from an Industrial Process Improvement Programme
 
-	Requirements engineering process is different in various products. In this article the authors explained a requirements engineering process called REPEAT (Requirements Engineering ProcEss At Telelogic). It is a Swedish CASE-tool vendor Telelogic AB; which is a fast growing company. REPEAT is a process that manages requirements in an entire release cycle. REPEAT is used for elicitation, selecting and managing requirement and release planning. The activities which can be managed are
+Requirements engineering process is different in various products. In this article the authors explained a requirements engineering process called REPEAT (Requirements Engineering ProcEss At Telelogic). It is a Swedish CASE-tool vendor Telelogic AB; which is a fast growing company. REPEAT is a process that manages requirements in an entire release cycle. REPEAT is used for elicitation, selecting and managing requirement and release planning. The activities which can be managed are
 o	Requirements Management Group(RQMG)
 o	Issuer
 o	Customer & users
