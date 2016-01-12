@@ -106,15 +106,25 @@ iii.	Change Management, Construction, Verification and Conclusion: The REPEAT pr
 1.GAP Analysis: GAP analysis is a method which is used to measure the customer value. It measures the positive and negative gaps 	  between the product and the customer view. GAP analysis helps in finding the characteristics and features of the product and        customer satisfaction is summarized. The positive gap represents in a good and satisfied product for the customer and the negative    gap represents the opposite.
   CVA Analysis: CVA acronym Customer Value Analysis. CVA analysis is same as GAP analysis. But in CVA the competitor product point      view  is also involved. Both GAP and CVA are used in measuring the selection quality post-release. 
   IVA Analysis: IVA acronym Internet Value Analysis. It is a method to make sure that the product is maintaining the company            strategies, resources and considering other products.
+  
+2.	Continuous integration is an essential part of agile software development setup. During the software development, some errors creep in and disturbs the software. Some tools are available for continuous integration to find the errors in the initial stage. They are
 
-2.Continuous integration is an essential part of agile software development setup. During the software development some errors creep in and disturbs the software. Some tools are available for continuous integration to find the errors in the initial stage. They are
-•Jenkins
-•Buildbot
-•Travis CI
-•Strider
-•Go
-•Integrity
-These tools are open source tools.
+•	Jenkins: This is a continuous integration tool. It is available as a service from third-party vendors. This tool can be found in https://jenkins-ci.org/
+
+•	Buildbot: This is a continuous integration tool which is to be developed in Python. This tool can be found in http://buildbot.net/
+
+•	Travis CI: This is a continuous integration tool, which is one of the easiest CI to start. This tool can be found in https://travis-ci.com/
+
+•	Strider: This is a continuous integration tool which can be easily customizable through plugins. This tool can be found in https://github.com/Strider-CD/strider
+
+•	Go: This is a continuous integration tool which is open sourced by ThoughtWorks. This tool can be found in https://www.go.cd/
+
+•	Integrity: This is a continuous integration which works with git only. This tool can be found in https://github.com/integrity
+
+These tools are open source tools. 
+The tool which is used by me is Travis CI. This tool helps in finding the errors in the code instantly when a change is occurred in the code. As the code is first updated the tool builds it immediately and for the second change I eventually introduced an error to see the way of working of the tool, and the tool immediately checks the code and gives a fail message. So this way the CI is helpful to the developers to immediately know the code bugs and rectify it at that time.
+
+
 
 3.Technical product management is a typical task which is handled by a technical product manager. The term technical product manager depicts a product manager with a technical background. Product manager has several important tasks, such as management of requirements, release planning and launching of products.
 
@@ -192,8 +202,7 @@ The goal of developing a software system is it meet the stakeholders needs and e
 # Seminar 2
 
 1.	Read up on the Boston Matrix
-2.	How do you connect your requirements to your architecture?
-3.	Can you connect all requirements directly? What do you do if you cannot?
+
   	
 **Answers:**
 
@@ -259,9 +268,6 @@ The three layers consist of different artifacts in them.
 **“Are You Biting Off More Than You Can Chew? A Case Study on Causes and Effects of Overscoping in Large-Scale Software Engineering”**
 
 The authors conducted a case study which involved around 5000 employees. This company develops embedded systems using product line approach. A formulated hypothesis is done aiming to cover all aspects within the process of requirements definition through development. The main research was to find the reason behind causes of over-scoping and their efforts for the phase-based process and also the causes and effects of the requirements engineering in an agile context. After performing the interviews and through examination the reason for over-scoping was due to the unclear vision of overall goal. The root cause analysis was done in the best possible way with all the five cases mentioned in the report, several effects of over-scoping are mentioned as quality issues, delays, unfulfillment of customer expectations, communications, and challenge to keep the SRS updated. The answer for the final research question states that most of the interviewees say that over-scoping is RE practices that lead to a number of new challenges. S of the root causes of over-scoping in agile RE practices are mentioned in the report. Validation for all the research questions is mentioned aptly. Finally, authors reported that scoping in an MDRE context is a continuous activity that carries through entire project life cycle.
-
-**“Factors Affecting Decision Outcome and Lead-time in Large-Scale Requirements Engineering”**
-
 
 
 **“An industrial survey of requirements interdependencies in software Product release planning”**
