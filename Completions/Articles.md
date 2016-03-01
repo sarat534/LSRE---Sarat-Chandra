@@ -93,7 +93,7 @@ Quality Requirements in Industrial Practice – an extended interview study at e
 A cost-value approach for prioritizing requirements. In this the cost to value approach is considered. It is a typical task in performing this method to a large sale without any sufficient tools for the calculations.
 
 
-**Seminar 2 Questions **
+**Seminar 2 Questions**
 
 
 1.Boston Matrix:
