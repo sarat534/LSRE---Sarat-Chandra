@@ -1,7 +1,11 @@
 # This document consists of Release Planning Log
+
 ## Soma Sekhara Sarat Chandra Panamgipalli
+
 **Week 52**
+
 Work done for Release planning:
+
 The requirements are prioritized in this week. For the release planning a meeting is conducted. In this meeting the prioritization technique is discussed. I have proposed some prioritization techniques. After the discussion as a team we have decided to use a grouping technique in which MoSCoW method is used for prioritizing the requirements. In this method the requirements are divided into four categories, they are Must have, Should have, Could have and Wont have. The customer value is considered as the main criteria for prioritizing the requirements into the categories which are mentioned in the above. The release plan is also based on the Art and Science of release planning, i.e. in assigning the milestones for the requirements. The prioritization is based on the future implementation of a requirement. For clarifying this let us assume an example to have a password feature first there must be the number characters required for the password. In this example first the number of characters required for the password is prioritized and then the password will be prioritized.
 
 Each member self-assigned the issues. Some issues may be assigned randomly and some are of on the particular requirement. The issues are assigned based upon the individual interest. The labels are also classified and the each requirements are assigned to a particular milestones. This process of assigning milestones to the requirements is done by the member who self-assigned for the issue.
@@ -23,6 +27,7 @@ By performing this assignment I understand that each release plan consists of re
 
 
 References:
+
 [1]	Ruhe, Günther, and Moshood Omolade Saliu. "The art and science of software release 	planning." Software, IEEE 22.6 (2005): 47-53.
 
 [2]	Regnell, Björn, and Sjaak Brinkkemper. "Market-driven requirements engineering for software 	products." Engineering and managing software requirements. Springer Berlin Heidelberg, 	2005. 287-308.
