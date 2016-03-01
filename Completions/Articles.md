@@ -112,7 +112,7 @@ Stars: In this the market share is high with an increase in the market growth.
 
 3 . Most of the requirements will not be directly connected to the architecture. Some of the requirements which are chosen will not be at the level of the architecture. Such type of requirements are eliminated. For designing an architecture the requirements which are equal to the architecture design level would be considered for the design.
 
-**Articles: **
+**Articles:**
 
 
 **Towards a Reference Framework for Software Product Management:**
